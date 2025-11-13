@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sunil Jangam</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjangam&label=Profile%20views&color=0e75b6&style=flat" alt="yashjangam" /> </p>
 
